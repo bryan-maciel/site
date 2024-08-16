@@ -1,0 +1,61 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp7346937.jpg);
+   background-attachment: fixed;
+   background-size: cover;
+    color: purple;}
+h1{
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;}  
+    p{
+    font-weight: 200;
+    font-size: 20px;
+    display: inline;
+    padding: 0;
+    margin: 0;}
+    p1{position: relative;
+    left: 300px;
+    font-family: "Trirong", serif;
+    font-style: normal;}
+    p2{position: relative;
+        left: 450px;
+        font-family: "Trirong", serif;
+        font-style: normal;}
+    p3{position: relative;
+        left: 550px;
+        font-family: "Trirong", serif;
+            font-style: normal;}
+#t{position: relative;
+    top: 70px;
+    right: 60px;
+    width: 50px;
+    border-radius: 20px;}
+#i{
+    position: relative;
+    top: 70px;
+    right: 80px;
+    width: 50px;
+    border-radius: 20px;}
+#s{
+    position: relative;
+    top: 70px;
+    right: 75px;
+    width: 80px;
+    border-radius: 10px;}
+a{
+    text-decoration: none;
+    display: inline;
+    padding: 0;
+    margin: 0;}
+/* unvisited link */
+a:link {
+    color: red;}  
+  /* visited link */
+a:visited {
+    color: purple;}  
+  /* mouse over link */
+a:hover {
+    color: hotpink;}  
+  /* selected link */
+a:active {
+    color: palevioletred;}
